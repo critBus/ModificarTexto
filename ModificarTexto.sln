@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModificarTexto", "ModificarTexto\ModificarTexto.csproj", "{D330C301-474B-4F24-8B3A-13E50C14B695}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReneUtiles", "..\..\ReneUtiles\ReneUtiles\ReneUtiles.csproj", "{39ED2FA0-B942-4311-B296-AF34F130CC50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReneWPF", "..\ReneWPF\ReneWPF.csproj", "{B0EA75F6-4250-42E4-9156-EF5CF5BDD240}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D330C301-474B-4F24-8B3A-13E50C14B695}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D330C301-474B-4F24-8B3A-13E50C14B695}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D330C301-474B-4F24-8B3A-13E50C14B695}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D330C301-474B-4F24-8B3A-13E50C14B695}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39ED2FA0-B942-4311-B296-AF34F130CC50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39ED2FA0-B942-4311-B296-AF34F130CC50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39ED2FA0-B942-4311-B296-AF34F130CC50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39ED2FA0-B942-4311-B296-AF34F130CC50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0EA75F6-4250-42E4-9156-EF5CF5BDD240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0EA75F6-4250-42E4-9156-EF5CF5BDD240}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0EA75F6-4250-42E4-9156-EF5CF5BDD240}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0EA75F6-4250-42E4-9156-EF5CF5BDD240}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
